@@ -1,3 +1,3 @@
 # Basic-Python
 
-This repo contains all the tasks done in python.
+This repo contains all my tasks done in python.
